@@ -1,12 +1,13 @@
 
 public class Main {
 	
-	final static double PI = 3.141592;
-
+	final static int INT_MAX = 2147483647;
+	
 	public static void main(String[] args) {
 
-		int r = 30;
-		System.out.println(r * r * PI);
+		int a = INT_MAX;
+		System.out.println(a + 1);
+		//Overflow
 		
 	}
 
