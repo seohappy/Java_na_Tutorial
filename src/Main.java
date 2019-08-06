@@ -1,5 +1,6 @@
 
 public class Main {
+<<<<<<< HEAD
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,6 +12,19 @@ public class Main {
 		
 		///////////ÀÚ·áÇü/////////////
 		
+=======
+	
+	
+	public static void main(String[] args) {
+
+		int a = 1;
+		int b = 2;
+		
+		System.out.println("a + b = " + (a + b));
+		System.out.println("a - b = " + (a - b));
+		System.out.println("a * b = " + (a * b));
+		System.out.println("a / b = " + (a / b));
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
