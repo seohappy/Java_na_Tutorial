@@ -3,14 +3,15 @@ public class Main {
 	
 	
 	public static void main(String[] args) {
-
-		int a = 1;
-		int b = 2;
 		
-		System.out.println("a + b = " + (a + b));
-		System.out.println("a - b = " + (a - b));
-		System.out.println("a * b = " + (a * b));
-		System.out.println("a / b = " + (a / b));
+		double a = 10.3;
+		double b = 9.6;
+		double c = 10.1;
+		
+		System.out.println((a+b+c)/3); //Æò±Õ°ª
+		
+		
+
 	}
 
 }
