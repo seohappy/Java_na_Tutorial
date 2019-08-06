@@ -7,8 +7,9 @@ public class Main {
 		double a = 10.3;
 		double b = 9.6;
 		double c = 10.1;
+		double d = 5.0;
 		
-		System.out.println((a+b+c)/3); //Æò±Õ°ª
+		System.out.println((a+b+c)/3); //Æò±Õ°ª ±¸ÇÏ±â
 		
 		
 
