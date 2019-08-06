@@ -3,11 +3,11 @@ public class Main {
 
 	public static void main(String[] args) {
 	
-		int a = 200;
-		
-		System.out.println("10진수: " + a);
-		System.out.format("8진수: %o\n", a);
-		System.out.format("16진수: %x", a);
+		String name = "Seoha Lee";
+		System.out.println(name);
+		System.out.println(name.substring(0, 1));
+		System.out.println(name.substring(3, 7));
+		System.out.println(name.substring(5, 8));
 	}
 	
 }
