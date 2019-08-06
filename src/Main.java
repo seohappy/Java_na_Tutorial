@@ -10,6 +10,12 @@ public class Main {
 		
 		System.out.println((a+b+c)/3); //평균값 구하기
 		
+		for (char i = 'a'; i<= 'z'; i++)
+		{
+			System.out.print(i+" ");
+		}
+		//아스키 코드로 알파벳 출력
+		
 		
 
 	}
